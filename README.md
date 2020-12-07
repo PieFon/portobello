@@ -1,2 +1,2 @@
 # portobello
-portfoflio project
+portfolio project
