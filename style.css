@@ -1,9 +1,28 @@
 h1 {
-    color:seagreen;
+    color:rgb(32, 138, 78);
 }
 
 body {
-    background: rgb(133, 110, 110);
+    background: rgb(110, 95, 95);
 };
 
+.heybartendercard {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+.card-link {
+    text-align: center
+}
+
+
+
+/* .valueStatement { */
+    
+/* } */
 
