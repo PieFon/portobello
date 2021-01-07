@@ -1,2 +1,0 @@
-# portobello
-portfolio project
