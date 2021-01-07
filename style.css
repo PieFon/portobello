@@ -6,6 +6,21 @@ body {
     background: rgb(110, 95, 95);
 };
 
+.heybartendercard {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+.card-link {
+    text-align: center
+}
+
+
 
 /* .valueStatement { */
     
